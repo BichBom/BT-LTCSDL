@@ -1,0 +1,39 @@
+E:\QUANLYSACH2\QUANLYSACH2\bin\Debug\QUANLYSACH2.exe
+E:\QUANLYSACH2\QUANLYSACH2\bin\Debug\QUANLYSACH2.pdb
+E:\QUANLYSACH2\QUANLYSACH2\obj\x86\Debug\QUANLYSACH2.KhachHang.resources
+E:\QUANLYSACH2\QUANLYSACH2\obj\x86\Debug\QUANLYSACH2.Properties.Resources.resources
+E:\QUANLYSACH2\QUANLYSACH2\obj\x86\Debug\QUANLYSACH2.csproj.GenerateResource.Cache
+E:\QUANLYSACH2\QUANLYSACH2\obj\x86\Debug\QUANLYSACH2.exe
+E:\QUANLYSACH2\QUANLYSACH2\obj\x86\Debug\QUANLYSACH2.pdb
+E:\QUANLYSACH2\QUANLYSACH2\bin\Debug\QUANLYSACH2.exe.config
+E:\QUANLYSACH2\QUANLYSACH2\obj\x86\Debug\QUANLYSACH2.SuaKhachHang.resources
+E:\QUANLYSACH2\QUANLYSACH2\obj\x86\Debug\QUANLYSACH2.ThemKhachHang.resources
+E:\QUANLYSACH2\QUANLYSACH2\obj\x86\Debug\QUANLYSACH2.XemDanhSachKhachHang.resources
+E:\QUANLYSACH2\QUANLYSACH2\obj\x86\Debug\QUANLYSACH2.XoaKhachHang.resources
+E:\QUANLYSACH2\QUANLYSACH2\obj\x86\Debug\QUANLYSACH2.csprojResolveAssemblyReference.cache
+E:\Chương trình quản lý sách\QUANLYSACH2\QUANLYSACH2\bin\Debug\QUANLYSACH2.exe.config
+E:\Chương trình quản lý sách\QUANLYSACH2\QUANLYSACH2\obj\x86\Debug\QUANLYSACH2.exe
+E:\Chương trình quản lý sách\QUANLYSACH2\QUANLYSACH2\obj\x86\Debug\QUANLYSACH2.pdb
+E:\Chương trình quản lý sách\QUANLYSACH2\QUANLYSACH2\bin\Debug\QUANLYSACH2.exe
+E:\Chương trình quản lý sách\QUANLYSACH2\QUANLYSACH2\bin\Debug\QUANLYSACH2.pdb
+E:\Chương trình quản lý sách\QUANLYSACH2\QUANLYSACH2\obj\x86\Debug\QUANLYSACH2.csprojResolveAssemblyReference.cache
+E:\Chương trình quản lý sách\QUANLYSACH2\QUANLYSACH2\obj\x86\Debug\QUANLYSACH2.KhachHang.resources
+E:\Chương trình quản lý sách\QUANLYSACH2\QUANLYSACH2\obj\x86\Debug\QUANLYSACH2.Properties.Resources.resources
+E:\Chương trình quản lý sách\QUANLYSACH2\QUANLYSACH2\obj\x86\Debug\QUANLYSACH2.SuaKhachHang.resources
+E:\Chương trình quản lý sách\QUANLYSACH2\QUANLYSACH2\obj\x86\Debug\QUANLYSACH2.ThemKhachHang.resources
+E:\Chương trình quản lý sách\QUANLYSACH2\QUANLYSACH2\obj\x86\Debug\QUANLYSACH2.XemDanhSachKhachHang.resources
+E:\Chương trình quản lý sách\QUANLYSACH2\QUANLYSACH2\obj\x86\Debug\QUANLYSACH2.XoaKhachHang.resources
+E:\Chương trình quản lý sách\QUANLYSACH2\QUANLYSACH2\obj\x86\Debug\QUANLYSACH2.csproj.GenerateResource.Cache
+D:\Chương trình quản lý sách\QUANLYSACH2\QUANLYSACH2\bin\Debug\QUANLYSACH2.exe.config
+D:\Chương trình quản lý sách\QUANLYSACH2\QUANLYSACH2\obj\x86\Debug\QUANLYSACH2.exe
+D:\Chương trình quản lý sách\QUANLYSACH2\QUANLYSACH2\obj\x86\Debug\QUANLYSACH2.pdb
+D:\Chương trình quản lý sách\QUANLYSACH2\QUANLYSACH2\bin\Debug\QUANLYSACH2.exe
+D:\Chương trình quản lý sách\QUANLYSACH2\QUANLYSACH2\bin\Debug\QUANLYSACH2.pdb
+D:\Chương trình quản lý sách\QUANLYSACH2\QUANLYSACH2\obj\x86\Debug\QUANLYSACH2.csprojResolveAssemblyReference.cache
+D:\Chương trình quản lý sách\QUANLYSACH2\QUANLYSACH2\obj\x86\Debug\QUANLYSACH2.KhachHang.resources
+D:\Chương trình quản lý sách\QUANLYSACH2\QUANLYSACH2\obj\x86\Debug\QUANLYSACH2.Properties.Resources.resources
+D:\Chương trình quản lý sách\QUANLYSACH2\QUANLYSACH2\obj\x86\Debug\QUANLYSACH2.SuaKhachHang.resources
+D:\Chương trình quản lý sách\QUANLYSACH2\QUANLYSACH2\obj\x86\Debug\QUANLYSACH2.ThemKhachHang.resources
+D:\Chương trình quản lý sách\QUANLYSACH2\QUANLYSACH2\obj\x86\Debug\QUANLYSACH2.XemDanhSachKhachHang.resources
+D:\Chương trình quản lý sách\QUANLYSACH2\QUANLYSACH2\obj\x86\Debug\QUANLYSACH2.XoaKhachHang.resources
+D:\Chương trình quản lý sách\QUANLYSACH2\QUANLYSACH2\obj\x86\Debug\QUANLYSACH2.csproj.GenerateResource.Cache
